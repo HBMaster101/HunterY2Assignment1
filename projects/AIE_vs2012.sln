@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIEFramework", "AIEFramework\AIEFramework_vs2012.vcxproj", "{BBD02D30-A9A5-41ED-9C12-67EC17B5C08B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutorial2", "Tutorial2\Tutorial2.vcxproj", "{AC85F2F9-1ED7-404A-AA6B-8A44B5B369FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{BBD02D30-A9A5-41ED-9C12-67EC17B5C08B}.Debug|Win32.Build.0 = Debug|Win32
 		{BBD02D30-A9A5-41ED-9C12-67EC17B5C08B}.Release|Win32.ActiveCfg = Release|Win32
 		{BBD02D30-A9A5-41ED-9C12-67EC17B5C08B}.Release|Win32.Build.0 = Release|Win32
+		{AC85F2F9-1ED7-404A-AA6B-8A44B5B369FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC85F2F9-1ED7-404A-AA6B-8A44B5B369FC}.Debug|Win32.Build.0 = Debug|Win32
+		{AC85F2F9-1ED7-404A-AA6B-8A44B5B369FC}.Release|Win32.ActiveCfg = Release|Win32
+		{AC85F2F9-1ED7-404A-AA6B-8A44B5B369FC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
